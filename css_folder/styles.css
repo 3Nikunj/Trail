@@ -1,0 +1,132 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-weight: "Anybody", cursive;
+  background-color: #bfeaf5;
+}
+h1 {
+  margin: 50px auto o auto;
+  font-family: "Source Serif Pro", serif;
+  font-size: 375%;
+}
+
+h2 {
+  font-size: 1.875rem;
+  color: #ff6e31;
+  font-weight: bold;
+  font-family: "Ubuntu", sans-serif;
+}
+
+h3 {
+  color: #ff6e31;
+  padding-top: 30px;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+a {
+  color: #ffebb7;
+}
+
+hr {
+  border: dotted none none none;
+}
+
+.top-container {
+  margin: 0px;
+  background-color: #243763;
+  color: #ff6e31;
+  position: relative;
+  padding-top: 150px;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 200px;
+}
+.cloud2 {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.mountain {
+  position: absolute;
+  bottom: 100px;
+}
+
+.profile {
+  padding-top: 50px;
+}
+
+.skill-row {
+  padding-top: 50px;
+  width: 50%;
+  margin: auto 380px auto 380px;
+}
+
+.skills {
+  padding-top: 100px;
+  width: 50%;
+  margin: auto 380px auto 380px;
+  border: none none dotted none;
+}
+
+.p-class {
+  text-align: left;
+  padding-bottom: 100px;
+  padding-left: 100px;
+}
+
+.p0class {
+  text-align: left;
+  width: 500px;
+  padding-bottom: 70px;
+  padding-top: 10px;
+}
+
+.compy {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.momopic {
+  width: 15%;
+  height: auto;
+  border-radius: 10%;
+}
+
+.momopara {
+  width: 30%;
+  height: auto;
+  margin-left: 35%;
+}
+
+.can1 {
+  padding-top: 30px;
+  width: 20%;
+  float: right;
+  margin-right: 100px;
+  border: 10px;
+}
+
+.contact-me {
+  background-color: #cb1c8d;
+  margin: 0;
+  height: 250px;
+}
+
+.git {
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #cb1c8d;
+}
+
+.lastnn {
+  color: white;
+  font-weight: bold;
+}
